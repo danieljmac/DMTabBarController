@@ -1,6 +1,5 @@
 //
 //  DMTabBarController.h
-//  Cloaq
 //
 //  Created by Daniel McCarthy on 10/13/14.
 //  Copyright (c) 2014 Daniel McCarthy. All rights reserved.
